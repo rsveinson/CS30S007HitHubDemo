@@ -31,6 +31,9 @@ public class GitHubDemo {
         
         // a new line character that works on every computer system
         String nl = System.lineSeparator();
+        
+        double x = 0.8;
+        System.out.println("hello again");
     
     // ***** objects *****
     
