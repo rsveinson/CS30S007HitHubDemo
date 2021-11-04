@@ -13,7 +13,7 @@ import java.text.NumberFormat;
  * 
  *************************************************************/
 
-public class FormatTemplateV3 {
+public class GitHubDemo {
 
     public static void main(String[] args) throws IOException{
     // ***** constants *******
@@ -62,6 +62,8 @@ public class FormatTemplateV3 {
     // ***** Main Processing *****
     
     // ***** Print Formatted Output *****
+    
+        System.out.println("hello");
     
     // ***** Closing Message *****
     
